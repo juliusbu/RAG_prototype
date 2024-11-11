@@ -1,0 +1,4 @@
+/venv/
+/.idea/
+/__pycache__/
+/retrieval_augmented_generation/chroma/
