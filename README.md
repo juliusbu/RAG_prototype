@@ -1,8 +1,8 @@
 **Prerequisits:**
 
-- install CUDA (file for Windows in the repository)
+- install CUDA
 
-- install CUDNN (files for Windows in the repository)
+- install CUDNN
 
 - AFTER installing the dependencies in requirements.txt:
 
